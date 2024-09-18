@@ -8,4 +8,4 @@ Daftar biodata siswa Dicoding Academy
 - Angkatan 2020
 - Angkatan 2021
 
-  ** Arya
+  ** Arya **
